@@ -1,4 +1,4 @@
-package at.htl;
+package at.htl.websocket;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.websocket.EncodeException;
